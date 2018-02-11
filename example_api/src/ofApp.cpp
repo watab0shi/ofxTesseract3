@@ -1,16 +1,3 @@
-//
-// tesseract-ocr API Examples
-// https://github.com/tesseract-ocr/tesseract/wiki/APIExample
-//
-// You Need to copy the traineddata
-// 
-// eng.traineddata
-// jpn.traineddata
-// osd.traineddata
-// 
-// to   data/tessdata
-// from ofxTessarect/libs/tesseract/copy_to_data_folder/tessdata
-
 #include <tesseract/baseapi.h>
 #include <leptonica/allheaders.h>
 #include "ofApp.h"
