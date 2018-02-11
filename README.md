@@ -15,6 +15,10 @@ Drag & Drop `libs/leptonica/lib` and `libs/tesseract/lib` to Navigator from Find
 Drag & Drop `libtesseract.3.dylib` and `liblept.5.dylib` to `Project > Build Phases > Link Binary With Libraries` from Navigator  
 ![Project Generator](images/04.png)  
   
+In OSX10.11 Xcode7, You must setting `Library Search Paths`.  
+Drag & Drop `ofxTessarect/libs/tesseract/lib` and `ofxTessarect/libs/leptonica/lib` folder from Finder  
+![Project Generator](images/05.png)  
+  
 Finally, You Need to copy the traineddata what you want to use  
   
 `[lang].traineddata`  
