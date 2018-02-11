@@ -1,0 +1,3 @@
+ofxGui
+ofxOpenCv
+ofxTesseract3
