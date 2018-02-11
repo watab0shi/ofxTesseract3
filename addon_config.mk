@@ -19,7 +19,7 @@ meta:
 	ADDON_DESCRIPTION = Addon for using Tesseract OCR library v3.0
 	ADDON_AUTHOR      = watab0shi
 	ADDON_TAGS        = "Computer Vision" "Typography"
-	ADDON_URL         = https://github.com/watab0shi/ofxTeseract3
+	ADDON_URL         = https://github.com/watab0shi/ofxTesseract3
 
 common:
 	# dependencies with other addons, a list of them separated by spaces 
