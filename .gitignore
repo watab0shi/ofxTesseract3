@@ -1,0 +1,11 @@
+.DS_Store
+config.make
+*.xcodeproj
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+*.app
+
+*/bin/data/tessdata/*.traineddata
+
+!.gitignore
