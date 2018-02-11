@@ -21,3 +21,6 @@ Finally, You Need to copy the traineddata what you want to use
   
 to   `data/tessdata`  
 from `ofxTessarect/libs/tesseract/copy_to_data_folder/tessdata`  
+  
+There are only `eng` and `jpn` data.
+If you want other languages, please download from [here](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-304305).  
