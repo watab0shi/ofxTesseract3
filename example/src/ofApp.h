@@ -5,7 +5,7 @@
 // jpn.traineddata
 //
 // to   data/tessdata
-// from ofxTessarect/libs/tesseract/copy_to_data_folder/tessdata
+// from ofxTessarect3/libs/tesseract/copy_to_data_folder/tessdata
 
 #pragma once
 
