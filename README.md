@@ -4,6 +4,8 @@
 Original source is [kylemcdonald/ofxTesseract](https://github.com/kylemcdonald/ofxTesseract).
 
 ## Generate Project
+install tesseract : `brew install tesseract`  
+
 ![Project Generator](images/01.png)  
   
 Open in Xcode  
